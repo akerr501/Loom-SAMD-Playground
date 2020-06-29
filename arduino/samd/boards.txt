@@ -1,6 +1,7 @@
 # Loomified Adafruit Feather M0
 loom.name=Loomified Feather M0
 loom.build.core=adafruit:samd:adafruit_feather_m0
+loom.build.mcu=adafruit:cortex-m0plus
 loom.build.board=adafruit:SAMD_ZERO
 loom.build.varient=adafruit:feather_m0
 loom.upload.tool=adafruit:bossac

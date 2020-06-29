@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+        "name": "loomtest",
+        "maintainer": "Adam Kerr",
+        "websiteURL": "https://github.com/akerr501/Loom-SAMD-Playground",
+        "email": "kerrada@oregonstate.edu",
+        "help":{
+          "online": "https://github.com/akerr501/Loom-SAMD-Playground/issues"
+        },
+        "platforms": [
+          {
+            "name": "OPEnS Lab Loom SAMD Board Testing",
+            "architecture": "samd",
+            "version": "1.0.0",
+            "category": "contributed",
+            "help": {
+              "online": "https://github.com/akerr501/Loom-SAMD-Playground/issues"
+            },
+            "url": "https://github.com/akerr501/Loom-SAMD-Playground/raw/master/arduino/samd.zip",
+            "archiveFileName": "samd.zip",
+            "size": "162401863",
+            "boards": [
+              {
+                "name": "Loomified Adafruit Feather M0 (SAMD21)"
+              }
+            ]
+          }
+        ],
+        "tools":[]
+    }
+  ]
+}

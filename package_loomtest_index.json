@@ -12,7 +12,7 @@
           {
             "name": "OPEnS Lab Loom SAMD Board Testing",
             "architecture": "samd",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "contributed",
             "help": {
               "online": "https://github.com/akerr501/Loom-SAMD-Playground/issues"

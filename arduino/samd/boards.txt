@@ -1,6 +1,6 @@
 # File: 	boards.txt
 # brief:	File that specifies all the boards supported in Loom and writes the commands to be used by Arduino IDE
-# author:	Adam Kerr, based off the SAMD21 architecture work from Arduino LLC.
+# author:	Adam Kerr, based off the SAM D21 architecture work from Arduino LLC.
 # date: 	2020
 # 
 

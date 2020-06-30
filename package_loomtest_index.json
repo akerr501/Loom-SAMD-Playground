@@ -19,7 +19,7 @@
             },
             "url": "https://github.com/akerr501/Loom-SAMD-Playground/raw/master/arduino/samd.zip",
             "archiveFileName": "samd.zip",
-            "size": "122149254",
+            "size": "122123066",
             "boards": [
               {
                 "name": "Loomified Adafruit Feather M0 (SAMD21)"

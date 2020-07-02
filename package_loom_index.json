@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-        "name": "loomtest",
+        "name": "loom",
         "maintainer": "Adam Kerr",
         "websiteURL": "https://github.com/akerr501/Loom-SAMD-Playground",
         "email": "kerrada@oregonstate.edu",
@@ -10,9 +10,9 @@
         },
         "platforms": [
           {
-            "name": "OPEnS Lab Loom SAMD Board Testing",
+            "name": "Loom SAMD Board Testing",
             "architecture": "samd",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "category": "contributed",
             "help": {
               "online": "https://github.com/akerr501/Loom-SAMD-Playground/issues"
